@@ -9,6 +9,7 @@
 
 ### 服务端
 部分用户反馈群晖套件版替换后打不开，请使用 docker 版。
+详细使用方法移步[这里](https://neko.re/archives/128.html)
 #### 手动替换
 + **注意**：如果以前使用其他破解方案，必须将系统的 hosts 的 `mb3admin.com` `www.mb3admin.com` 条目删除，否则破解不会生效
 + 将 [破解程序集](https://github.com/YukiCoco/EmbyCrack/tree/master/assembly) 替换原有文件即完成破解，原有文件路径为 `system/System.Net.Http.dll`
@@ -20,6 +21,3 @@
 ### 客户端
 + 浏览器：安装 [URLRedirector]() 插件，将 `https://mb3admin.com` 替换为 `http://crackemby.neko.re`
 + Android & Android TV：直接使用破解版，自己找找就有了
-
-
-+ 详细使用方法移步[这里](https://neko.re/archives/128.html)
