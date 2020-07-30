@@ -8,7 +8,7 @@
 ## Usage
 
 ### 服务端
-部分用户反馈群晖套件版替换后打不开，请使用 docker 版。
+部分用户反馈群晖套件版替换后打不开，请使用 docker 版  
 详细使用方法移步[这里](https://neko.re/archives/128.html)
 #### 手动替换
 + **注意**：如果以前使用其他破解方案，必须将系统的 hosts 的 `mb3admin.com` `www.mb3admin.com` 条目删除，否则破解不会生效
