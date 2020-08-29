@@ -1,5 +1,6 @@
 # EmbyCrack
-[English Version](https://github.com/YukiCoco/EmbyCrack/blob/master/README-EN.md)
+[English Version](https://github.com/YukiCoco/EmbyCrack/blob/master/README-EN.md)  
+[Telegram Group](https://t.me/embycrack)
 ## Feature
 + 破解 Emby 高级版验证
 + 修改了默认插件源，加速中国用户下载插件
