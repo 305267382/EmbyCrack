@@ -28,3 +28,4 @@
 ### 客户端
 + 浏览器：安装 [URLRedirector]() 插件，将 `https://mb3admin.com` 替换为 `http://crackemby.neko.re`
 + Android & Android TV：直接使用破解版，自己找找就有了
+- IOS：[破解教程](https://neko.re/archives/208.html "破解教程")
