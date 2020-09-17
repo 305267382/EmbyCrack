@@ -4,7 +4,7 @@
 
 
 ## 小广告
-是否在为 Emby 无法刮削片子而烦恼？**Emby 国内加速破解版**加速所有刮削器访问下载，拒绝手动刮削，直接勾选 TheMovieDb、The Open Movie Database、TheTVDB 来刮削电影、剧集、动画，让海报布满你的 Emby，让刮削不再成问题！旨在为了提高中国用户的 Emby 使用体验，[了解一下](https://neko.re/archives/192.html "Emby 国内加速破解版效果展示")  
+是否在为 Emby 无法刮削片子而烦恼？**Emby 国内加速服务**加速所有刮削器访问下载，拒绝手动刮削，直接勾选 TheMovieDb、The Open Movie Database、TheTVDB 来刮削电影、剧集、动画，让海报布满你的 Emby，让刮削不再成问题！旨在为了提高中国用户的 Emby 使用体验，[了解一下](https://neko.re/archives/192.html "Emby 国内加速破解版效果展示")  
 
 ## Feature
 + 破解 Emby 高级版验证
